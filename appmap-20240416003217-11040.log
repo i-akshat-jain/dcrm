@@ -1,0 +1,9 @@
+[2024-04-16 00:32:17,030] INFO _appmap.env: appmap enabled: True
+[2024-04-16 00:32:18,353] INFO _appmap.web_framework: Requests will be recorded (Django)
+[2024-04-16 00:32:20,550] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713223940_418818_http_127_0_0_1_8000_.appmap.json
+[2024-04-16 00:32:22,153] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713223942_151369_http_127_0_0_1_8000_7D.appmap.json
+[2024-04-16 00:33:43,985] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713224023_983828_http_127_0_0_1_8000_.appmap.json
+[2024-04-16 00:33:45,101] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713224025_082339_http_127_0_0_1_8000_.appmap.json
+[2024-04-16 00:33:47,491] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713224027_488445_http_127_0_0_1_8000_.appmap.json
+[2024-04-16 00:34:58,044] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713224098_043689_http_127_0_0_1_8000_.appmap.json
+[2024-04-16 00:35:25,400] INFO _appmap.recording: writing D:\Akshat\Project of python\CRM\dcrm\tmp\appmap\requests\1713224125_398161_http_127_0_0_1_8000_.appmap.json
